@@ -1,0 +1,53 @@
+.iphone-plus {
+  background-color: #ffffff;
+  width: 100%;
+  min-width: 430px;
+  min-height: 932px;
+  display: flex;
+  flex-direction: column;
+}
+
+.iphone-plus .saveetha-eng-logo {
+  margin-left: 15px;
+  width: 400px;
+  height: 80px;
+  margin-top: 44px;
+  aspect-ratio: 5.01;
+  object-fit: cover;
+}
+
+.iphone-plus .saveetha-logo {
+  margin-left: 98px;
+  width: 233px;
+  height: 233px;
+  margin-top: 40px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.iphone-plus .screenshot {
+  margin-left: 82px;
+  width: 274px;
+  height: 63px;
+  margin-top: 48px;
+  aspect-ratio: 4.35;
+  object-fit: cover;
+}
+
+.iphone-plus .img {
+  margin-left: 118px;
+  width: 177px;
+  height: 66px;
+  margin-top: 50px;
+  aspect-ratio: 2.68;
+  object-fit: cover;
+}
+
+.iphone-plus .screenshot-2 {
+  margin-left: 33px;
+  width: 348px;
+  height: 73px;
+  margin-top: 75px;
+  aspect-ratio: 4.77;
+  object-fit: cover;
+}

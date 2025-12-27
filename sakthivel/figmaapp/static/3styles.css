@@ -1,0 +1,34 @@
+.iphone-plus {
+  background-color: #ffffff;
+  width: 100%;
+  min-width: 430px;
+  min-height: 932px;
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+}
+
+.iphone-plus .text-wrapper {
+  margin-left: 28px;
+  width: 374px;
+  height: 102px;
+  margin-top: 34px;
+  font-family: "Inria Serif-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.iphone-plus .element-NAME-CONTACT {
+  margin-left: 35px;
+  width: 367px;
+  height: 673px;
+  font-family: "Inria Serif-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}

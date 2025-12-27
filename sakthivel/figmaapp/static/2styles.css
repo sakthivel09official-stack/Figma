@@ -1,0 +1,30 @@
+.iphone-plus {
+  background-color: #ffffff;
+  width: 100%;
+  min-width: 430px;
+  min-height: 932px;
+  display: flex;
+  flex-direction: column;
+  gap: 78px;
+}
+
+.iphone-plus .image {
+  margin-left: 45px;
+  width: 339px;
+  height: 76px;
+  margin-top: 23px;
+  aspect-ratio: 4.45;
+  object-fit: cover;
+}
+
+.iphone-plus .element-hack-hustle-no {
+  margin-left: 53px;
+  width: 331px;
+  height: 638px;
+  font-family: "Inria Serif-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
